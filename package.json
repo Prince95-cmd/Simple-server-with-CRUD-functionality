@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server-methods",
+  "version": "1.0.0",
+  "description": "server methods",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "kzeetechnologies",
+  "license": "ISC"
+}
