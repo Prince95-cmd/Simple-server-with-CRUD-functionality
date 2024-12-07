@@ -1,4 +1,4 @@
-const {getAllBooks, addBook, updateBook, deleteBook} = require('./server');
+const {getAllBooks, addBook, updateBook, deleteBook} = require('./services');
 const http = require('http');
 
 
