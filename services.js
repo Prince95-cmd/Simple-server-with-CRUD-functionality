@@ -170,7 +170,7 @@ function deleteBook(req, res){
                     }));
                 }
                 res.writeHead(200);
-                res.end(JSON.stringify('Book successfully deleted.'));
+                res.end(JSON.stringify('Book deleted successfully.'));
             });
 
         });

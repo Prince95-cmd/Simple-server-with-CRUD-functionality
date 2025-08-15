@@ -3,7 +3,7 @@ const http = require('http');
 
 
 
-const PORT = 9000;
+const PORT = 2000;
 const HOST_NAME = 'localhost';
 
 // Functions for handling requests
